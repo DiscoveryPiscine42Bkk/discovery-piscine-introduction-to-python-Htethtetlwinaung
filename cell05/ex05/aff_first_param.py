@@ -7,4 +7,4 @@ def main():
         print("none")
 if __name__ == "__main__":
     main()
-#chmod +x aff_forst_param.py
+#chmod +x aff_first_param.py
