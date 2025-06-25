@@ -19,4 +19,4 @@ women_scientists = {
 famous_births(women_scientists)
 
 
-#chmod +x persons_of_interest.py
+#chmod +x persons_of_interest.py 
